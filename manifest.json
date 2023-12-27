@@ -1,0 +1,16 @@
+{
+    "name": "Random Dog App",
+    "short_name": "DogApp",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ac7733",
+    "theme_color": "#ac7733",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/img/icon.svg",
+            "type": "image/svg+xml",
+            "sizes": "any"
+        }
+    ]
+}
